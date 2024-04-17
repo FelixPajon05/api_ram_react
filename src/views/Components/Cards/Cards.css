@@ -1,0 +1,22 @@
+
+img {
+    box-shadow: 0 10px 50px rgba(235, 25, 110, 1);
+}
+
+:root {
+    --blue: blue;
+    --red: red;
+    --green: green;
+    --yellow: yellow;
+    --purple: purple;
+    --pink: pink;
+    --orange: orange;
+    --white: white;
+    --black: black;
+    --gray: gray;
+    --brown: brown;
+    --teal: teal;
+    --lime: lime;
+    --cyan: cyan;
+    --skyblue: skyblue;
+}

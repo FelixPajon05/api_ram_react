@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Paaji+2:wght@400;500&display=swap");
+
+* {
+    font-family: 'Baloo Paaji 2', cursive;
+}
+
+body {
+    position: relative;
+/*    height: 100vh; */
+/*    margin: 0; */
+    background: linear-gradient(180deg, #1A1E35 0%, #372C4B 50%, #74404F 100%);
+}
+
+.circle {
+    position: absolute;
+    border-radius: 50%;
+    background-color: skyblue;
+    filter: blur(1px);
+    box-shadow: 0px 0px 10px 0px #FFF;
+    z-index: -5;
+}
